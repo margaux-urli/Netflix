@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/collaps.css");
+
+
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background: #303030;
+}
+
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+#email {
+  width: 500px;
+  height: 40px;
+  letter-spacing: .05rem;
+  font-weight: lighter;
+  margin-top: 6px;
+  margin-right: 0px;
+}
+
+.pub-white {
+  margin-top: 30px;
+  text-align: center;
+  letter-spacing: 0.1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}

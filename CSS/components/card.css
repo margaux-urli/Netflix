@@ -1,0 +1,129 @@
+.cards1 {
+	display: flex;
+	flex-wrap: wrap;
+	padding-left: 400px;
+}
+
+.card1 {
+	flex-grow: 1;
+	padding: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background: transparent;
+}
+
+.card2 {
+	background: black;
+	border-top: 9px solid #212121;
+	color: white;
+	padding-top: 20px;
+	letter-spacing: 0.15rem;
+}
+
+.card2 h1 {
+	font-size: 50px;
+	font-weight: 700;
+	padding-top: 60px;
+	padding-bottom: 50px;
+	margin-left: 40px;
+}
+
+.card2 h2 {
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+	margin-left: 40px;
+}
+
+.card2 img {
+	height: 400px;
+	width: 600px;
+	padding-top: 0px;
+}
+
+.card2 a {
+	color: white;
+}
+
+.card2 a:hover {
+	color: white;
+}
+
+
+
+#wht-padding {
+	margin-left: 0px;
+
+}
+
+
+.card3 {
+	background: black;
+	border-top: 9px solid #212121;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	letter-spacing: 0.15rem;
+}
+
+
+
+.cards4 {
+	display: flex;
+	flex-wrap: wrap;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+.card4 {
+	flex-grow:1;
+	flex-wrap: wrap;
+	align-items: center;
+	display:flex;
+	background: black;
+	width: 60px;
+	font-size: 15px;
+	color: black;
+	padding-bottom: 70px;
+
+}
+
+.card4 a:hover {
+	text-decoration: underline;
+}
+
+.card4 strong {
+	color: #757575;
+	font-weight: 200;
+	border-bottom: 5px;
+}
+
+.card4 li {
+	margin-top:20px;
+}
+
+.card5 {
+	background: black;
+	border-top: 9px solid #212121;
+	color: white;
+	padding-top: 20px;
+	letter-spacing: 0.15rem;
+	padding-top: 100px;
+}
+
+#font-bold {
+	color: #757575;
+	font-weight: 500;
+}
+
+
+.card5 a {
+	color: #757575;
+}
+
+.card5 a:hover {
+	color: #757575;
+}
+
+
